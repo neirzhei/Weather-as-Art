@@ -48,3 +48,4 @@ python src/main.py
 ```
 
 3. Follow the prompts to enter month and year. The generated artwork will be saved as `artwork.png` in the working directory.
+![June 1999](artwork.png)
