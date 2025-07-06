@@ -49,5 +49,7 @@ python src/main.py
 
 3. Follow the prompts to enter month and year. The generated artwork will be saved as `artwork.png` in the working directory.
 
+4. You can increase the variety in artwork generation by assigning different styles to each degree celsius instead of having one style assigned to a whole group of few degree celsius. You can also use a more detailed dataset along with it for diverse generation.
+
 #### Here's an artwork generated for June, 1999:
 ![June 1999](artwork.png)
