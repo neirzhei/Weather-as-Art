@@ -1,4 +1,4 @@
-Weather Art Generator is a Python application that reads historical weather data (temperature and rainfall) and generates abstract artwork representing the selected data.
+Weather as Art- is a Python application that reads historical weather data (temperature and rainfall) and generates abstract artwork representing the selected data.
 
 ### Features
 
@@ -25,16 +25,6 @@ src/
 data/
  └── Temp_and_rain.csv  # Weather data file (you provide this)
 ```
-
-### Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
-pip install -r requirements.txt
-````
 
 ### Usage
 
