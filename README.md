@@ -1,4 +1,4 @@
-Weather as Art- is a Python application that reads historical weather data (temperature and rainfall) and generates abstract artwork representing the selected data.
+This program reads historical weather data (temperature and rainfall) and generates abstract artwork representing the selected data.
 
 ### Features
 
